@@ -1,5 +1,7 @@
 # Omnifood-Project
 
+#### [Click here for live site](https://dashing-lebkuchen-5bab89.netlify.app/)
+
 ## About Omnifood
 
 Omnifood is an online company that prioritises well-being by promoting healthy eating habits. With busy lifestyles leaving little time for cooking, many face health consequences from poor diets. Our solution utilises AI to tailor weekly meal plans based on individual preferences. 
