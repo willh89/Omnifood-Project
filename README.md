@@ -14,13 +14,4 @@ Partnering with restaurants, we deliver freshly prepared meals to selected citie
 
 # Video
 
-![](Omnifood-desktop-vid.mov)
-Omnifood-desktop-vid
-
-```md
-# Desktop version
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/p0lXexwmG8c)](https://youtu.be/p0lXexwmG8c)
-
-Press play to see the video.
-```
+![](Omnifood-Project/img/omnifood-versions.png)
