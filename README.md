@@ -12,6 +12,6 @@ Partnering with restaurants, we deliver freshly prepared meals to selected citie
 2. CSS3
 3. JavaScript
 
-# Video
+## Visuals
 
 ![](Omnifood-Project/img/omnifood-versions.png)
