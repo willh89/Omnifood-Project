@@ -12,12 +12,15 @@ Partnering with restaurants, we deliver freshly prepared meals to selected citie
 2. CSS3
 3. JavaScript
 
-![](Omnifood-Project/img/Omnifood-desktop2.png)
+# Video
 
-<br />
+![](Omnifood-desktop-vid.mov)
+Omnifood-desktop-vid
 
-![](Omnifood-Project/img/Omnifood-tablet2.png)
+```md
+# cool-beans
 
-<br />
+https://youtube.com/shorts/p0lXexwmG8c
 
-![](Omnifood-Project/img/Omnifood-mobile2.png)
+Press play to see the video.
+```
