@@ -16,4 +16,4 @@ Partnering with restaurants, we deliver freshly prepared meals to selected citie
 
 ![](Omnifood-Project/img/Omnifood-tablet2.png)
 
-![](Omnifood-Project/img/Omnifood-mobile2png)
+![](Omnifood-Project/img/Omnifood-mobile2.png)
