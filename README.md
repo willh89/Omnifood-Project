@@ -18,9 +18,9 @@ Partnering with restaurants, we deliver freshly prepared meals to selected citie
 Omnifood-desktop-vid
 
 ```md
-# cool-beans
+# Desktop version
 
-https://youtube.com/shorts/p0lXexwmG8c
+[![](https://markdown-videos-api.jorgenkh.no/youtube/p0lXexwmG8c)](https://youtu.be/p0lXexwmG8c)
 
 Press play to see the video.
 ```
