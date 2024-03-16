@@ -1,6 +1,6 @@
 # Omnifood-Project
 
-#### [Click here for live site](https://dashing-lebkuchen-5bab89.netlify.app/)
+#### [Click here for live site](https://wills-omnifood-project.netlify.app/)
 
 ## About Omnifood
 
