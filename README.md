@@ -4,7 +4,7 @@
 
 ## Summary
 
-The purpose of this project was to familiarise myself with HTML5 & CSS3, and some JavaScript. Part of this practice included building the architecture of the site using CSS Grid and Flexbox, depending on which section fitted the criteria.
+The purpose of this project was to familiarise myself with HTML5, CSS3,, and some JavaScript. Part of this practice included building the architecture of the site using CSS Grid and Flexbox, depending on which section fitted the criteria.
 
 ## About Omnifood
 
