@@ -24,7 +24,7 @@ The purpose of the website itself is to prioritise well-being by promoting healt
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="img/favicon.png" alt="Project logo"></a>
+ <img width=200px height=200px src="Omnifood-Project/img/favicon.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Omnifood Project</h1>
@@ -45,8 +45,6 @@ The purpose of the website itself is to prioritise well-being by promoting healt
 
 </p>
 
-
-![](img/Natours-collage.png)
 
 ## 📝 Table of Contents
 
@@ -83,4 +81,4 @@ Part of this practice included constructing the architecture of the site using C
 
 - CSS Udemy Jonas Course
 - [HTML & CSS Course](https://github.com/jonasschmedtmann
-![image](https://github.com/willh89/Omnifood-Project/assets/22074786/ed3eff7f-95c2-4684-bae8-1667c751ff97)
+
