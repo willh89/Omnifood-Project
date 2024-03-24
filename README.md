@@ -42,6 +42,4 @@ Part of this practice included using CSS Grid and Flexbox, depending on which se
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- CSS Udemy Jonas Course
-- [HTML & CSS Course](https://github.com/jonasschmedtmann
-
+ [HTML & CSS Course](https://github.com/jonasschmedtmann)
