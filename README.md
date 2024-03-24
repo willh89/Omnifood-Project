@@ -21,6 +21,8 @@
 
 </p>
 
+![](Omnifood-Project/img/omnifood-versions.png)
+
 ## 🧐 About <a name = "about"></a>
 
 The purpose of this project was to familiarise myself with HTML5, CSS3, and some JavaScript. 
