@@ -21,19 +21,11 @@
 
 </p>
 
-
-## 📝 Table of Contents
-
-- [About](#about)
-- [Built Using](#built_using)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
 The purpose of this project was to familiarise myself with HTML5, CSS3, and some JavaScript. 
 
-Part of this practice included constructing the architecture of the site using CSS Grid and Flexbox, depending on which section fitted the criteria.
+Part of this practice included using CSS Grid and Flexbox, depending on which section fitted the criteria to ensure properties were aligned correctly. This project also focused on ensuring the site was responsive on mobile, tablets, and desktop by using media queries
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
